@@ -1,0 +1,147 @@
+h1 {
+  text-align: center;
+  font-family: 'ITC Benguiat Std', sans-serif;
+  font-size: 55px;
+}
+
+.str {
+  text-align: center;
+  font-size: 75px;
+  display: inline-block;
+  font-family: 'ITC Benguiat Std', sans-serif;
+}
+
+body {
+  background-color: black;
+  color: red;}
+
+.cast {
+  color: white;
+  font-size: 55px;
+  text-decoration: none;
+  font-family: 'ITC Benguiat Std', sans-serif;
+
+}
+
+.trailer {
+  color: white;
+  font-size: 55px;
+  text-decoration: none;
+  font-family: 'ITC Benguiat Std', sans-serif;
+}
+
+.watch {
+  color: white;
+  font-size: 55px;
+  text-decoration: none;
+  font-family: 'ITC Benguiat Std', sans-serif;
+  background-color: red;
+  padding: 15px;
+  color: black;
+}
+
+div {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.th {
+  font-size: 55px;
+  font-family: 'ITC Benguiat Std', sans-serif;
+  position: relative;
+  bottom: 28px;
+}
+
+img {
+  width: 155px;
+  margin-right: 85px;
+  margin-left: 320px;
+}
+
+p {
+  color: white;
+  font-size: 50px;
+  font-family: 'Nanum Brush Script', cursive;
+}
+
+hr {
+  color: white;
+  width: 10px;
+}
+
+.CAST {
+  font-size: 75px;
+  text-align: center;
+  color: red;
+  font-family: 'ITC Benguiat Std', sans-serif;
+}
+.TRAILER{
+  text-align: center;
+  font-family: 'ITC Benguiat Std', sans-serif;
+  font-size: 75px;
+}
+
+.s1 {
+  text-align: center;
+  color: red;
+  font-size: 35px;
+  border: 0;
+  position: relative;
+  bottom: 25px;
+  font-family: 'ITC Benguiat Std', sans-serif;
+}
+
+.s2 {
+  text-align: center;
+  color: red;
+  font-size: 35px;
+  border: 0;
+  position: relative;
+  bottom: 25px;
+  left: 35px;
+  font-family: 'ITC Benguiat Std', sans-serif;
+}
+
+.s3 {
+  text-align: center;
+  color: red;
+  font-size: 35px;
+  position: relative;
+  border: 0;
+  bottom: 25px;
+  font-family: 'ITC Benguiat Std', sans-serif;
+}
+
+.s4 {
+  text-align: center;
+  color: red;
+  font-size: 35px;
+  border: 0;
+  position: relative;
+  bottom: 25px;
+  left: 35px;
+  font-family: 'ITC Benguiat Std', sans-serif;
+}
+
+.v1 {
+  margin-left: 55px;
+  margin-bottom: 0;
+}
+
+.v2 {
+  margin-left: 70px;
+  margin-bottom: 0;
+}
+
+.v3 {
+  margin-left: 55px;
+  margin-bottom: 0;
+}
+
+.v4 {
+  margin-left: 70px;
+  margin-bottom: 0;
+}
+.bg{
+  position: fixed;
+}
